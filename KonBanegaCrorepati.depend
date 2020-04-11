@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578316837 source:d:\workspace\c++\konbanegacrorepati\konbanegacrorepati.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+	<conio.h>
+
