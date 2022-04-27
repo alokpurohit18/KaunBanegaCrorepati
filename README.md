@@ -1,6 +1,6 @@
 # KaunBanegaCrorepati
 
-A simple(no GUI) quiz game for windows platform. 
+A simple(non GUI) quiz game for windows platform. 
 
 HOW TO INSTALL AND PLAY - 
 
